@@ -1,0 +1,5 @@
+fever:0
+headache:1
+help:2
+seizure:3
+stomachache:4

@@ -1,0 +1,5 @@
+headache
+stomachache
+fever
+help
+seizure
